@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Laburnum-Foods-web/static/css/main.896cac8a.chunk.css",
-    "main.js": "/Laburnum-Foods-web/static/js/main.674aeafd.chunk.js",
-    "main.js.map": "/Laburnum-Foods-web/static/js/main.674aeafd.chunk.js.map",
+    "main.js": "/Laburnum-Foods-web/static/js/main.f9be3830.chunk.js",
+    "main.js.map": "/Laburnum-Foods-web/static/js/main.f9be3830.chunk.js.map",
     "runtime-main.js": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js",
     "runtime-main.js.map": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js.map",
     "static/css/2.a541033c.chunk.css": "/Laburnum-Foods-web/static/css/2.a541033c.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.a541033c.chunk.css",
     "static/js/2.ae87802b.chunk.js",
     "static/css/main.896cac8a.chunk.css",
-    "static/js/main.674aeafd.chunk.js"
+    "static/js/main.f9be3830.chunk.js"
   ]
 }
