@@ -1,0 +1,28 @@
+:root {
+  --clr-accent: #0f2631;
+  --clr-accent-light: #1b4558;
+
+  --clr-white: #fff;
+  --clr-black: #000;
+
+  --clr-light-black: #4b4b4b;
+  --clr-lightgrey: #d3d3d3;
+
+  --padding-small: 24px;
+  --padding-large: 24px 40px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&display=swap");
+/* font-family: 'Roboto', sans-serif; */
+
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+/* font-family: 'Kaushan Script', cursive; */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}

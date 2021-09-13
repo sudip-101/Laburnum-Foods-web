@@ -1,0 +1,94 @@
+.form-container {
+  min-height: 100vh;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+
+  padding: 40px;
+}
+
+* {
+  user-select: none;
+}
+
+form {
+  background: var(--clr-lightgrey);
+  border-radius: 8px;
+
+  width: 350px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  padding: var(--padding-small);
+
+  box-shadow: 4px 4px 12px -4px rgba(0, 0, 0, 0.5);
+}
+
+form h2 {
+  font-size: 18px;
+
+  margin-bottom: 8px;
+}
+
+form input:not([type="radio"]) {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  border-radius: 4px;
+
+  width: 100%;
+
+  color: #6e6e6e;
+}
+
+form .btn-sign-up {
+  border-radius: 4px;
+  margin-top: 16px;
+}
+
+::placeholder {
+  color: inherit;
+}
+
+.gender-tick {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  color: #6e6e6e;
+}
+
+@media only screen and (max-height: 730px) {
+  .form-container {
+    padding: 100px 40px;
+  }
+}
+
+@media only screen and (min-height: 770px) {
+  .form-container {
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .form-container {
+    padding: 100px 24px;
+  }
+
+  form {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 365px) {
+  .form-container {
+    padding: 100px 16px;
+  }
+
+  form {
+    padding: 24px 16px;
+  }
+}
