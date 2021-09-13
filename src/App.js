@@ -16,8 +16,8 @@ const App = () => {
         <Switch>
           {/* <Carousel /> */}
           {/* <Card /> */}
-          <Route path="/" exact component={Home} />
-          <Route path="/signup" component={Form} />
+          <Route path={process.env.PUBLIC_URL + "/"} exact component={Home} />
+          <Route path={process.env.PUBLIC_URL + "/signup"} component={Form} />
         </Switch>
       </div>
     </Router>
