@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Laburnum-Foods-web/static/css/main.896cac8a.chunk.css",
+    "main.js": "/Laburnum-Foods-web/static/js/main.029340a2.chunk.js",
+    "main.js.map": "/Laburnum-Foods-web/static/js/main.029340a2.chunk.js.map",
+    "runtime-main.js": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js",
+    "runtime-main.js.map": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js.map",
+    "static/css/2.a541033c.chunk.css": "/Laburnum-Foods-web/static/css/2.a541033c.chunk.css",
+    "static/js/2.ae87802b.chunk.js": "/Laburnum-Foods-web/static/js/2.ae87802b.chunk.js",
+    "static/js/2.ae87802b.chunk.js.map": "/Laburnum-Foods-web/static/js/2.ae87802b.chunk.js.map",
+    "static/js/3.e8f31736.chunk.js": "/Laburnum-Foods-web/static/js/3.e8f31736.chunk.js",
+    "static/js/3.e8f31736.chunk.js.map": "/Laburnum-Foods-web/static/js/3.e8f31736.chunk.js.map",
+    "index.html": "/Laburnum-Foods-web/index.html",
+    "static/css/2.a541033c.chunk.css.map": "/Laburnum-Foods-web/static/css/2.a541033c.chunk.css.map",
+    "static/css/main.896cac8a.chunk.css.map": "/Laburnum-Foods-web/static/css/main.896cac8a.chunk.css.map",
+    "static/js/2.ae87802b.chunk.js.LICENSE.txt": "/Laburnum-Foods-web/static/js/2.ae87802b.chunk.js.LICENSE.txt",
+    "static/media/Burger.712b5634.jpg": "/Laburnum-Foods-web/static/media/Burger.712b5634.jpg",
+    "static/media/Drumsticks.4b8f2b5c.jpg": "/Laburnum-Foods-web/static/media/Drumsticks.4b8f2b5c.jpg",
+    "static/media/Marshmellow.3e49dc63.webp": "/Laburnum-Foods-web/static/media/Marshmellow.3e49dc63.webp",
+    "static/media/Momos.e5b5a7f8.jpg": "/Laburnum-Foods-web/static/media/Momos.e5b5a7f8.jpg",
+    "static/media/biryani.57c949cf.jpeg": "/Laburnum-Foods-web/static/media/biryani.57c949cf.jpeg",
+    "static/media/buritos.c70def5b.jpg": "/Laburnum-Foods-web/static/media/buritos.c70def5b.jpg",
+    "static/media/font-awesome.min.css": "/Laburnum-Foods-web/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/frenchfries.c7bb2afe.jpg": "/Laburnum-Foods-web/static/media/frenchfries.c7bb2afe.jpg",
+    "static/media/img1.f4b19843.jpeg": "/Laburnum-Foods-web/static/media/img1.f4b19843.jpeg",
+    "static/media/img2.697ee0af.jpeg": "/Laburnum-Foods-web/static/media/img2.697ee0af.jpeg",
+    "static/media/img3.7b1f97ed.jpeg": "/Laburnum-Foods-web/static/media/img3.7b1f97ed.jpeg",
+    "static/media/img4.0551eb68.jpeg": "/Laburnum-Foods-web/static/media/img4.0551eb68.jpeg",
+    "static/media/img5.fd8b5a7b.jpeg": "/Laburnum-Foods-web/static/media/img5.fd8b5a7b.jpeg",
+    "static/media/pasta.4373e50f.jpg": "/Laburnum-Foods-web/static/media/pasta.4373e50f.jpg",
+    "static/media/pizza-2.e5381dbf.jpg": "/Laburnum-Foods-web/static/media/pizza-2.e5381dbf.jpg",
+    "static/media/sandwitch.24a81188.jpeg": "/Laburnum-Foods-web/static/media/sandwitch.24a81188.jpeg",
+    "static/media/toast.e42dcb42.jpg": "/Laburnum-Foods-web/static/media/toast.e42dcb42.jpg",
+    "static/media/wings.bf08142f.jpg": "/Laburnum-Foods-web/static/media/wings.bf08142f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1576d7fb.js",
+    "static/css/2.a541033c.chunk.css",
+    "static/js/2.ae87802b.chunk.js",
+    "static/css/main.896cac8a.chunk.css",
+    "static/js/main.029340a2.chunk.js"
+  ]
+}
