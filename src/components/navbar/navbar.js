@@ -14,12 +14,12 @@ const Navbar = () => {
         <h1 className="logo">Laburnum Foods</h1>
         <ul className={showNav ? "nav-links active" : "nav-links"} id="nav-links"
         >
-          <Link to="/">
+          <Link to={process.env.PUBLIC_URL + "/"}>
             <li>
               <a id="home">Home</a>
             </li>
           </Link>
-          <Link to="/signup">
+          <Link to={process.env.PUBLIC_URL + "/signup"}>
             <li>
               <button className="btn btn-SignUp">Sign Up</button>
             </li>
