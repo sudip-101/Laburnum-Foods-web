@@ -44,13 +44,17 @@ form input:not([type="radio"]) {
   color: #6e6e6e;
 }
 
+::placeholder {
+  color: inherit;
+}
+
 form .btn-sign-up {
   border-radius: 4px;
   margin-top: 16px;
 }
 
-::placeholder {
-  color: inherit;
+form input[type="submit"] {
+  color: var(--clr-white);
 }
 
 .gender-tick {

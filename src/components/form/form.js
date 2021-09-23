@@ -46,7 +46,7 @@ const Form = () => {
                         <input type="tel" name="phone" id="phone" placeholder="Phone Number" />
                     </label>
                 </div>
-                <button className="btn btn-sign-up">sign up</button>
+                <input type="submit" className="btn btn-sign-up" value="sign up"/>
             </form>
         </div>
     );
