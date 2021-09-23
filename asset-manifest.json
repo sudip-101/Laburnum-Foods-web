@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Laburnum-Foods-web/static/css/main.896cac8a.chunk.css",
-    "main.js": "/Laburnum-Foods-web/static/js/main.f9be3830.chunk.js",
-    "main.js.map": "/Laburnum-Foods-web/static/js/main.f9be3830.chunk.js.map",
+    "main.css": "/Laburnum-Foods-web/static/css/main.cffb6221.chunk.css",
+    "main.js": "/Laburnum-Foods-web/static/js/main.8e832296.chunk.js",
+    "main.js.map": "/Laburnum-Foods-web/static/js/main.8e832296.chunk.js.map",
     "runtime-main.js": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js",
     "runtime-main.js.map": "/Laburnum-Foods-web/static/js/runtime-main.1576d7fb.js.map",
     "static/css/2.a541033c.chunk.css": "/Laburnum-Foods-web/static/css/2.a541033c.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e8f31736.chunk.js.map": "/Laburnum-Foods-web/static/js/3.e8f31736.chunk.js.map",
     "index.html": "/Laburnum-Foods-web/index.html",
     "static/css/2.a541033c.chunk.css.map": "/Laburnum-Foods-web/static/css/2.a541033c.chunk.css.map",
-    "static/css/main.896cac8a.chunk.css.map": "/Laburnum-Foods-web/static/css/main.896cac8a.chunk.css.map",
+    "static/css/main.cffb6221.chunk.css.map": "/Laburnum-Foods-web/static/css/main.cffb6221.chunk.css.map",
     "static/js/2.ae87802b.chunk.js.LICENSE.txt": "/Laburnum-Foods-web/static/js/2.ae87802b.chunk.js.LICENSE.txt",
     "static/media/Burger.712b5634.jpg": "/Laburnum-Foods-web/static/media/Burger.712b5634.jpg",
     "static/media/Drumsticks.4b8f2b5c.jpg": "/Laburnum-Foods-web/static/media/Drumsticks.4b8f2b5c.jpg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.1576d7fb.js",
     "static/css/2.a541033c.chunk.css",
     "static/js/2.ae87802b.chunk.js",
-    "static/css/main.896cac8a.chunk.css",
-    "static/js/main.f9be3830.chunk.js"
+    "static/css/main.cffb6221.chunk.css",
+    "static/js/main.8e832296.chunk.js"
   ]
 }
